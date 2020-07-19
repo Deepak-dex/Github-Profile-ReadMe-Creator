@@ -12,6 +12,13 @@
   
 }
 
+.left{
+	justify-content: flex-end;
+	
+}
+.right{
+	justify-content: flex-start;
+}
 /* ==========================================================================
    #GRID
    ========================================================================== */
@@ -484,7 +491,7 @@ textArea {
 
 .label {
   font-size: 16px;
-  color: #555;
+  color: #000;
   text-transform: capitalize;
   display: block;
   margin-bottom: 5px;
