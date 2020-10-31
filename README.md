@@ -1,17 +1,13 @@
-# Hi there 👋 I'm Harika  V,
+# Hey 👋, This is Harika B V
+### About me 🤓
+A tech enthusiast with passion to solve problems and to make things. Proven skills in Android application development, python programming, UI/UX Design with work experience in various organisations and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
 
-A tech enthusiast with passion to solve problems and to make things. Proven skills in Android application development, python programming, UI/UX Design with work experience in various organizations and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
+**Skills:** Java | Python | Android
 
-## My skills include
-Java | Android | Frontend
+- 💼 I am currently working Github Profile Readme Creator
 
+- ✍️ I am currently learning React JS
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=harika-bv&theme=dark&show_icons=true)
+- 🌱  I am currently looking to collaborate on Web Projects
 
-<hr>
-<p align='center'>	
-  <a target='_blank' href='https://www.linkedin.com/in/harika-b-v'><img src='https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white'></img></a>
-  <a target=_blank' href='mailto:harikabhaskaram31@gmail.com'><img src='https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white'></img></a>
-  <a target='_blank' href='https://twitter.com/harika-bv'><img src='https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white'></img></a>
-</p>
-
+<a href = https://www.linkedin.com/in/harika><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/harika><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/harika><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a> • <a href = https://www.behance.net/harika><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/behance.svg height='30' weight='30'></a>
