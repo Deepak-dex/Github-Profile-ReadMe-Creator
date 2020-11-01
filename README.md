@@ -1,6 +1,6 @@
-# Hi there 👋 I'm HarikaBV
+# Hi there 👋 I'm Harika B V
 ### About me 🤓
-A tech enthusiast with passion to solve problems and to make things. Proven skills in Android application development, python programming, UI/UX Design with work experience in various organisations and technical teams and I believe that I am a versatile learner and can get going with any sort of work.<h4 align='center'>📫 Reach me on</h4>
+A tech enthusiast with passion to solve problems and to make things. Proven skills in Android application development, python programming, UI/UX Design with work experience in various organisations and technical teams and I believe that I am a versatile learner and can get going with any sort of work.<h4>📫 Reach me on</h4>
 
 <p align='center'>
 
@@ -12,7 +12,7 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 
 
-<img src='https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
+<img src='https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/><img src='https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white'/>
 
 ## Frameworks
 
@@ -24,4 +24,4 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 
 
- <img src ='https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white'/>
+ <img src='https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white'/>
